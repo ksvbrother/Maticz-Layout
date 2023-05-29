@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Maticz-Layout/static/css/main.dfd7551c.css",
+    "main.js": "/Maticz-Layout/static/js/main.8eef80f0.js",
+    "static/js/787.336ada4d.chunk.js": "/Maticz-Layout/static/js/787.336ada4d.chunk.js",
+    "static/media/Live.png": "/Maticz-Layout/static/media/Live.26ac3954fd3ad06547b6.png",
+    "static/media/Banner.png": "/Maticz-Layout/static/media/Banner.a30b0e63a5262c6e2b0b.png",
+    "static/media/transparent.png": "/Maticz-Layout/static/media/transparent.8f801e1b16f93ece61ce.png",
+    "static/media/BG.png": "/Maticz-Layout/static/media/BG.4adf9d6c8f12cdca05bd.png",
+    "static/media/Logo.png": "/Maticz-Layout/static/media/Logo.80662ebeea5c38cca3b5.png",
+    "index.html": "/Maticz-Layout/index.html",
+    "main.dfd7551c.css.map": "/Maticz-Layout/static/css/main.dfd7551c.css.map",
+    "main.8eef80f0.js.map": "/Maticz-Layout/static/js/main.8eef80f0.js.map",
+    "787.336ada4d.chunk.js.map": "/Maticz-Layout/static/js/787.336ada4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd7551c.css",
+    "static/js/main.8eef80f0.js"
+  ]
+}
